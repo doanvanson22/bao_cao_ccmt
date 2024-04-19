@@ -1,4 +1,4 @@
-![hs]([https://github.com/doanvanson22/2011068482-doanvanson/assets/121208990/ebb96f45-9f33-418d-ad34-b709d59ccfd8](https://i.imgur.com/87exNV8.jpeg))
+![hs]([https://i.imgur.com/87exNV8.jpeg])
 # Ứng Dụng Đặt Lịch Phòng Khám Nha Khoa
 
 ## Lý Do Chọn Đề Tài
